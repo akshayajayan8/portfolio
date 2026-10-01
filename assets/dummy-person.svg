@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650">
+  <defs>
+    <clipPath id="bodyClip">
+      <path d="M150 650 C145 540 155 455 190 395 C215 350 285 350 310 395 C345 455 355 540 350 650 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Transparent background: replace this whole file with your own transparent PNG/WebP/JPG -->
+  <path d="M150 650 C145 540 155 455 190 395 C215 350 285 350 310 395 C345 455 355 540 350 650 Z"
+        fill="#090909"/>
+  <ellipse cx="250" cy="245" rx="105" ry="125" fill="#f8f8f5" stroke="#090909" stroke-width="12"/>
+  <path d="M150 240 C145 115 205 75 265 88 C335 102 365 170 340 245
+           C312 205 285 190 250 190 C212 190 180 208 150 240Z" fill="#090909"/>
+  <circle cx="213" cy="255" r="9" fill="#090909"/>
+  <circle cx="287" cy="255" r="9" fill="#090909"/>
+  <path d="M220 305 Q250 325 280 305" fill="none" stroke="#090909" stroke-width="8" stroke-linecap="round"/>
+  <path d="M183 425 Q250 470 317 425" fill="none" stroke="#f8f8f5" stroke-width="9" opacity=".9"/>
+  <text x="250" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700"
+        font-size="25" fill="#f8f8f5">REPLACE ME</text>
+</svg>
